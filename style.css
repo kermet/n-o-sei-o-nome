@@ -70,7 +70,7 @@ body{// <uniquifier>: Use a unique and descriptive class name
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 .rodape{
-    background-color: black;
+    background-color: #1704428c;
     text-align: center;
 }
 .rodape-imagem{
